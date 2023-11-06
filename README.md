@@ -1,6 +1,6 @@
 # Insurance-Claim-Prediction-and-Analysis
 ## Objective:
-The objective of this project is **to develop a predictive model that can accurately assess and predict whether an insurance claim should be issued to a policyholder or not.** This model aims to provide an automated and data-driven decision-making process for insurance companies, streamlining the claims processing workflow and ensuring fair and accurate claim approvals.
+The objective of this project is **to discover and visually represent trends related to travel insurance and to to conduct hypothesis testing to gain insights into specific relationships and patterns within the dataset.**
 
 ## Project Description :open_file_folder:
 In this project I will do the following:
@@ -51,7 +51,7 @@ This dataframe contains 9 variables that correspond to:
 
 **Age:** Age Of The Customer
 
-**Employment Type** The Sector In Which Customer Is Employed
+**Employment Type:** The Sector In Which Customer Is Employed
 
 **GraduateOrNot:** Whether The Customer Is College Graduate Or Not
 
@@ -71,4 +71,4 @@ This dataframe contains 9 variables that correspond to:
 ## Results :star:
 The results of our analysis reveal intriguing insights into the dataset. Firstly, we found evidence indicating that non-government employee individuals have a significantly higher average annual income compared to those in the private sector. Secondly, our findings suggest that the number of family members does play a pivotal role in influencing the choice to acquire travel insurance. This highlights the impact of family size on insurance decisions.Contrarily, our analysis led to the conclusion that there is no substantial association between chronic diseases and travel insurance, as we failed to reject the null hypothesis in this case. Lastly, the analysis revealed a strong association between traveling abroad and the decision to purchase travel insurance. This highlights the significance of past travel experiences in shaping insurance choices. 
  
- ***These results collectively provide valuable insights for both the insurance industry and potential travelers, enhancing our understanding of the factors influencing travel insurance decisions.***
+ *These results collectively provide valuable insights for both the insurance industry and potential travelers, and can enhance the understanding of the factors influencing travel insurance decisions.*
