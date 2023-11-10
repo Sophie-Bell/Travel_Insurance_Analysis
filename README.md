@@ -1,10 +1,10 @@
-# Insurance-Claim-Prediction-and-Analysis
+# Insurance-Claim-Prediction-and-Analysis 
 ## Objective:
-The objective of this project is **to discover and visually represent trends related to travel insurance and to to conduct hypothesis testing to gain insights into specific relationships and patterns within the dataset.**
+The objective of this project is **to discover and visually represent trends related to travel insurance and to conduct hypothesis testing to gain insights into specific relationships and patterns within the dataset.**
 
 ## Project Description :open_file_folder:
 In this project I will do the following:
-
+ 
 - Explore the dataset to understand its structure and contents
 
 - Clean the data, handle missing values
